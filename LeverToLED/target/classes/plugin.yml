@@ -1,0 +1,4 @@
+name: LeverToLED
+version: 1.0-SNAPSHOT
+main: us.sushipython.levertoled.LeverToLED
+api-version: 1.16

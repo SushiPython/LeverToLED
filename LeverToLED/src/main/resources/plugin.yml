@@ -1,0 +1,4 @@
+name: LeverToLED
+version: ${project.version}
+main: us.sushipython.levertoled.LeverToLED
+api-version: 1.16
